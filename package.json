@@ -1,0 +1,30 @@
+{
+  "name": "coders-tokyo",
+  "version": "1.0.0",
+  "description": "Coders.Tokyo CLI tools",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "coders-tokyo": "bin/coders-tokyo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhim175/coders-tokyo-cli.git"
+  },
+  "keywords": [
+    "coders.tokyo",
+    "programming",
+    "education"
+  ],
+  "author": "Thinh Pham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhim175/coders-tokyo-cli/issues"
+  },
+  "homepage": "https://github.com/nhim175/coders-tokyo-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.1"
+  }
+}
