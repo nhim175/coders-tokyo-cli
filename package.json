@@ -1,6 +1,6 @@
 {
   "name": "coders-tokyo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Coders.Tokyo CLI tools",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

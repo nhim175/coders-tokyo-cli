@@ -24,8 +24,6 @@ Commands:
 Options:
   --version  Show version number                                       [boolean]
   --help     Show help                                                 [boolean]
-
-Not enough non-option arguments: got 0, need at least 1
 ```
 
 ## Contribute
